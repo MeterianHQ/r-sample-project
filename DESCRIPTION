@@ -1,0 +1,9 @@
+Package: sample_project
+Title: Sample project
+Version: 1.0.0
+Date: 2022-04-06
+Imports:
+    acepack,
+    crayon,
+    testthat
+
